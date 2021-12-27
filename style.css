@@ -1,0 +1,23 @@
+body{
+    font-family: 'Sriracha', cursive;
+    background-color:#346beb;
+}
+#camera{
+    border-style: inset;
+    width: 400px;
+    height:300px;
+}
+#header{
+    border-style: inset;
+    border-width: 5px;
+    font-size: large;
+    width: 80%;
+}
+#picture{
+    border-style: inset;
+    width: 400px;
+    height:300px;
+}
+#Object{
+    color: rgb(216, 25, 25);
+}
